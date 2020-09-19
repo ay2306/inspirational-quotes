@@ -6,7 +6,7 @@ node_js:
     - node
 
 script:
-    - node test.js
+    - npm run test
 
 notifications:
     email: false
